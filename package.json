@@ -1,5 +1,5 @@
 {
-  "name": "hello-boss",
+  "name": "blog-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.2",
+    "next": "^10.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   }
